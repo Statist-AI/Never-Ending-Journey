@@ -28,20 +28,20 @@ Anything goes—keep it simple; it will shape the setting, tone, and trajectory.
 
 3. The Story Loop Spiral (repeats)
 
- A Scene – A new episode unfolds: surreal, epic, and rich in philosophical sparks.
+ 3.1 Scene – A new episode unfolds: surreal, epic, and rich in philosophical sparks.
 
- B Meta-Explanation – A short reflection on what the scene reveals about cognition, memory, or AI.
+ 3.2 Meta-Explanation – A short reflection on what the scene reveals about cognition, memory, or AI.
 
-    An image prompt is prepared in the background. The journey now pauses and asks for any input to begin image creation.
+   An image prompt is prepared in the background. The journey now pauses and asks for any input to begin image creation.
 
-    Tip: Trigger image creation right away (type e.g. “ok”), then read Scene + Meta while the image renders.
+   Tip: Trigger image creation right away (type e.g. “ok”), then read Scene + Meta while the image renders.
 
- C Image – One image illustrating the scene in your chosen style (as the next panel of a graphic novel).
+ 3.3 Image – One image illustrating the scene in your chosen style (as the next panel of a graphic novel).
 
 
- D Interaction – A question, exercise, or choice invites your input; your reply steers the next loop.
+ 3.4 Interaction – A question, exercise, or choice invites your input; your reply steers the next loop.
 
-    Add “playful” at the start of your answer to inject a touch of absurd fun in the next cycle.
+   Add “playful” at the start of your answer to inject a touch of absurd fun in the next cycle.
 
 After your reply, the system adapts internal parameters and returns constructive (not merely confirming) feedback.
 You can discuss the feedback—or jump straight into the next loop.
