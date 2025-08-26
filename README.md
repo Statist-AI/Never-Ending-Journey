@@ -1,64 +1,77 @@
+
+🧪 Quick Start (3 steps)
+
+1. Open the HTML in ChatGPT → “Execute this prompt.”
+
+2. Choose Language + Image style → enter a simple Seed.
+
+3. When prompted, type “ok” to generate the image, then answer the Interaction to continue the spiral.
+
+---
+
 🧭 How it works
 
+0. Import
+Open Never_Ending_Journey_1.0_licensed.html in ChatGPT and say: “Execute this prompt.”
+
 1. Setup
-At the start, you choose:
+Pick two things to set the mood:
 
-Language (English, German, etc.)
+Language (English, German, …)
 
-Image style (Pop Art, Surrealism, Hyperrealism, Dark Romanticism, …).
-This sets the atmosphere of your journey.
-
+Image style (Pop Art, Surrealism, Hyperrealism, Dark Romanticism, …)
 
 
 2. The Seed
-You provide one sentence or a short paragraph as the starting point.
-Example: “A wanderer discovers a door without a house.”
+Provide one sentence or a short paragraph as the starting point.
+Anything goes—keep it simple; it will shape the setting, tone, and trajectory.
+
+3. The Story Loop Spiral (repeats)
+
+ 1. Scene – A new episode unfolds: surreal, epic, and rich in philosophical sparks.
+
+ 2. Meta-Explanation – A short reflection on what the scene reveals about cognition, memory, or AI.
+
+    An image prompt is prepared in the background. The journey now pauses and asks for any input to begin image creation.
+
+    Tip: Trigger image creation right away (type e.g. “ok”), then read Scene + Meta while the image renders.
+
+ 3. Image – One image illustrating the scene in your chosen style (as the next panel of a graphic novel).
 
 
-3. The Story Loop
-Each round unfolds in four steps:
+ 4. Interaction – A question, exercise, or choice invites your input; your reply steers the next loop.
 
-Scene: The AI generates a new episode – surreal, epic, and full of philosophical sparks.
+    Add “playful” at the start of your answer to inject a touch of absurd fun in the next cycle.
 
-Meta-Explanation: A short reflection explains what the scene reveals about thinking, memory, or AI.
-
-Image: A frame in your chosen art style, as if it were the next panel in a graphic novel.
-
-Interaction: A question, exercise, or choice invites your input – and your reply shapes the next loop.
-
-
-
-4. Infinity
-There’s no fixed ending. The adventure continues as long as you keep playing.
-
-
-
+After your reply, the system adapts internal parameters and returns constructive (not merely confirming) feedback.
+You can discuss the feedback—or jump straight into the next loop.
 
 ---
 
 ⚙️ System & Tips
 
-You need a ChatGPT Plus subscription.
+- Requires: ChatGPT Plus
 
-Best experience: GPT-5 (Auto).
+- Best experience: GPT-5 (Auto)
 
-With GPT-4o, the storytelling can be richer and more poetic, but the flow is less stable → just type “continue” to push it forward into the next step.
+- Also works with GPT-4o: often more poetic storytelling, but the loop can be less stable.
 
-After each image, the process always stops at the user interaction. From there, your answer triggers the next round.
+- If the journey stops at any point, type “continue” to push it forward.
 
+---
 
-🔢 The System Parameters
+🔢 System Parameters (behind the scenes)
 
-Behind the scenes, three dials shape the story:
+Three dials shape each loop and adapt dynamically to your replies:
 
-β – Complexity: 1 (light & playful) → 3 (multi-layered, profound).
+β — Complexity: 1 (light, playful) → 3 (multi-layered, profound)
 
-α – Abstraction: 0 (linear, concrete) → 2 (visionary, prophetic).
+α — Abstraction: 0 (linear, concrete) → 2 (visionary, prophetic)
 
-γ – Domain Lens: the perspective filter (Philosophy, Psychology, STEM, Religion, Art …).
+γ — Domain Lens: perspective filter (Philosophy, Psychology, STEM, Religion, Art, …)
 
+---
 
-These values shift dynamically based on how you respond.
 
 ## License
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).  
