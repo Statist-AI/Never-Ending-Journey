@@ -1,11 +1,9 @@
 
 🧪 Quick Start (3 steps)
-
 1. Open the HTML in ChatGPT → “Execute this prompt.”
-
 2. Choose Language + Image style → enter a simple Seed.
-
 3. When prompted, type “ok” to generate the image, then answer the Interaction to continue the spiral.
+4. If the journey stops at any point, type “continue” to push it forward.
 
 ---
 
@@ -15,12 +13,9 @@
 Open Never_Ending_Journey_1.0_licensed.html in ChatGPT and say: “Execute this prompt.”
 
 1. Setup
-Pick two things to set the mood:
-
-Language (English, German, …)
-
-Image style (Pop Art, Surrealism, Hyperrealism, Dark Romanticism, …)
-
+- Pick two things to set the mood:
+- Language (English, German, …)
+- Image style (Pop Art, Surrealism, Hyperrealism, Dark Romanticism, …)
 
 2. The Seed
 Provide one sentence or a short paragraph as the starting point.
